@@ -18,7 +18,7 @@ the same WHO data repository website and its corresponding economic data was col
 The project is organized as follows:
 - `data.csv`: Dataset from Kaggle in csv format
 - `README.md`: This file providing an overview of the project (You are reading it right now!).
-- `titanic.ipynb`: Jupyter Notebook containing the code for data preprocessing, EDA, model training, and evaluation.
+- `life_exp.ipynb`: Jupyter Notebook containing the code for data preprocessing, EDA, model training, and evaluation.
 - `requirements.txt`: List of Python packages required to run the notebook.
 
 ## Setup and Usage
